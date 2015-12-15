@@ -1,0 +1,28 @@
+name: eclecticnutrition
+favicon: null
+layout_spectrum: 0.05704253911972046
+typography_spectrum: 0.4421565788798034
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.49467910500243306
+  lightness: 0.31376120867207646
+  saturation: 0.3139803847298026
+  rhythmicContrast: 0.44589326600544155
+purpose: []
